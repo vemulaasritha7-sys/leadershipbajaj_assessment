@@ -17,12 +17,14 @@ API Handling: Fetch API (Async/Await)
 Architecture: Client-side (No backend required)
 
 🏗️ Project Structure
-quiz-leaderboard/
-│
-frontend
+quiz-leaderboard
+**frontend**
+
 > index.html
 > script.js
-backend
+
+**backend**
+
 > server.js
 > service.js
 
