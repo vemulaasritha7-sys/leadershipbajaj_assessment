@@ -19,8 +19,12 @@ Architecture: Client-side (No backend required)
 🏗️ Project Structure
 quiz-leaderboard/
 │
-├── index.html      # Main UI and script
-├── README.md       # Project documentation
+frontend
+> index.html
+> script.js
+backend
+> server.js
+> service.js
 
 🧠 Architecture
 The application follows a client-side architecture:
